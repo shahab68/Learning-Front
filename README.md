@@ -1,3 +1,35 @@
 # Learning-Front
 
-** my name is saeid givaki**
+
+
+
+```
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <input type="text">
+    <input type="button" value="">
+    <input type="checkbox" name="" id="">
+    <input type="color" name="" id="">
+    <input type="date" name="" id="">
+    <input type="datetime-local" name="" id="">
+    <input type="email" name="" id="">
+    <input type="file" name="" id="">
+    <input type="image" src="" alt="">
+    
+    
+    
+    <input type="submit" value="">
+    
+
+</body>
+</html>
+
+```
